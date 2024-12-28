@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm a Python developer with experience in FastAPI,
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-004F8C?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Request](https://via.placeholder.com/150x50.png?text=Request)
+
 
 ---
 
