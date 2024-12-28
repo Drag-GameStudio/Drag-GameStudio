@@ -1,9 +1,9 @@
-# Привет! 👋 Я Drag GameStudio
-Добро пожаловать в мой профиль GitHub! Я разработчик Python с опытом работы в FastAPI, Flask и других технологиях.
+# Hello! 👋 I'm Drag GameStudio
+Welcome to my GitHub profile! I'm a Python developer with experience in FastAPI, Flask, and other technologies.
 
 ---
 
-## 🛠 Мой стек технологий:
+## 🛠 My Technology Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -12,29 +12,28 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-004F8C?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-
-
 ---
 
-## 📊 GitHub статистика:
+## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drag-GameStudio&layout=compact&theme=dark)
 
 ---
 
 - **[CBC_LN](https://github.com/Drag-GameStudio/CBC_LN)**  
-  *Проект на Python.*
+  *Python Project.*
 
 - **[Quick-doc-py-UI](https://github.com/Drag-GameStudio/Quick-doc-py-UI)**  
-  *Проект на Python.*
+  *Python Project.*
 
 - **[Quick-Documentation](https://github.com/Drag-GameStudio/Quick-Documentation)**  
-  *Проект на Python.*
+  *Python Project.*
 
 - **[Allo-Search-Engine](https://github.com/Drag-GameStudio/Allo-Search-Engine)**  
-  *Проект на Python.*
+  *Python Project.*
 
 - **[Enigma](https://github.com/Drag-GameStudio/Enigma)**  
-  *Проект на Python.*
+  *Python Project.*
+
 ---
 
-Спасибо, что заглянули! 😊
+Thanks for stopping by! 😊
