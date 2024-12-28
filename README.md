@@ -16,10 +16,20 @@
 
 ---
 
-## 🚀 Мои проекты:
-- [SealPy](https://github.com/flugerops/sealpy): Библиотека для шифрования на Python.
-- [Titanfall Multiplayer](https://github.com/flugerops/titanfall-clone): Онлайн-игра, вдохновлённая Titanfall.
+- **[CBC_LN](https://github.com/Drag-GameStudio/CBC_LN)**  
+  *Проект на Python.*
 
+- **[Quick-doc-py-UI](https://github.com/Drag-GameStudio/Quick-doc-py-UI)**  
+  *Проект на Python.*
+
+- **[Quick-Documentation](https://github.com/Drag-GameStudio/Quick-Documentation)**  
+  *Проект на Python.*
+
+- **[Allo-Search-Engine](https://github.com/Drag-GameStudio/Allo-Search-Engine)**  
+  *Проект на Python.*
+
+- **[Enigma](https://github.com/Drag-GameStudio/Enigma)**  
+  *Проект на Python.*
 ---
 
 Спасибо, что заглянули! 😊
