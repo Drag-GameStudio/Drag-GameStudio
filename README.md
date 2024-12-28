@@ -20,19 +20,19 @@ Welcome to my GitHub profile! I'm a Python developer with experience in FastAPI,
 ---
 
 - **[CBC_LN](https://github.com/Drag-GameStudio/CBC_LN)**  
-  *Python Project.*
+  *A Python project for encrypting and managing data with a custom algorithm.*
 
 - **[Quick-doc-py-UI](https://github.com/Drag-GameStudio/Quick-doc-py-UI)**  
-  *Python Project.*
+  *A Python-based user interface for quickly generating documentation.*
 
 - **[Quick-Documentation](https://github.com/Drag-GameStudio/Quick-Documentation)**  
-  *Python Project.*
+  *A tool for automatically creating and organizing Python project documentation.*
 
 - **[Allo-Search-Engine](https://github.com/Drag-GameStudio/Allo-Search-Engine)**  
-  *Python Project.*
+  *A Python project focused on building a custom search engine.*
 
 - **[Enigma](https://github.com/Drag-GameStudio/Enigma)**  
-  *Python Project.*
+  *A Python project that implements encryption techniques based on the Enigma machine.*
 
 ---
 
