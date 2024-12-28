@@ -12,7 +12,7 @@
 
 ## 📊 GitHub статистика:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drag-GameStudio&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flugerops&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drag-GameStudio&layout=compact&theme=dark)
 
 ---
 
