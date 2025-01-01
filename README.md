@@ -20,8 +20,6 @@ Welcome to my GitHub profile! I'm a Python developer with experience in FastAPI,
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drag-GameStudio&layout=compact&theme=dark)
 
-
-![test](https://amdm.ru/akkordi/basta/159636/sansara/)
 ---
 
 - **[CBC_LN](https://github.com/Drag-GameStudio/CBC_LN)**  
