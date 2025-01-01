@@ -20,19 +20,38 @@ Welcome to my GitHub profile! I'm a Python developer with experience in FastAPI,
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drag-GameStudio&layout=compact&theme=dark)
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Простой HTML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 20px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            font-size: 18px;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
-<style>
-h1{
-color: red;}</style>
 <body>
     <h1>Добро пожаловать!</h1>
-    <p>Это простой HTML-документ.</p>
+    <p>Это простой HTML-документ с добавленными стилями.</p>
     <a href="https://example.com">Перейти на сайт</a>
 </body>
 </html>
