@@ -27,6 +27,9 @@ Welcome to my GitHub profile! I'm a Python developer with experience in FastAPI,
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Простой HTML</title>
 </head>
+<style>
+h1{
+color: red;}</style>
 <body>
     <h1>Добро пожаловать!</h1>
     <p>Это простой HTML-документ.</p>
