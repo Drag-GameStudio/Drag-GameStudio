@@ -22,10 +22,6 @@ Welcome to my GitHub profile! I'm a Python developer with experience in FastAPI,
 
 ---
 
-## Projects Stats:
-[![PyPI Downloads](https://static.pepy.tech/badge/quick-doc-py)](https://pepy.tech/projects/quick-doc-py)
----
-
 - **[CBC_LN](https://github.com/Drag-GameStudio/CBC_LN)**  
   *A Python project for encrypting and managing data with a custom algorithm.*
 
