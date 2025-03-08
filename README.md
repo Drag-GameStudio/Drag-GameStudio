@@ -1,5 +1,5 @@
 # Hello! 👋 I'm Drag GameStudio
-Welcome to my GitHub profile! I'm a Python developer with experience in FastAPI, Flask, and other technologies.
+Welcome to my GitHub profile! I'm a Python developer with experience in Django, TensorFlow, Flask, and other technologies.
 
 ---
 
